@@ -9,12 +9,15 @@
     "unity": "rm -fr node_modules && DIR=`pwd` yarn install --flat --prod"
   },
   "dependencies": {
-    "mkdirp": "^0.5.1",
-    "ncp": "^2.0.0",
+    "minimist": "ssh://github.com/substack/minimist.git#0.0.8",
+    "mkdirp": "ssh://github.com/substack/node-mkdirp.git#0.5.1",
+    "ncp": "ssh://github.com/AvianFlu/ncp.git#v2.0.0",
     "uboostrap-texturedithering": "ssh://github.com/minhhh/unity-texture-dither.git#v0.0.2",
+    "uboostrap-webp": "ssh://github.com/minhhh/UBootstrap.Webp.git#v0.0.2",
     "ubootstrap-core": "ssh://github.com/minhhh/UBootstrap.Core.git#v0.0.3"
   },
   "resolutions": {
-    "ubootstrap-core": "0.0.3"
+    "ubootstrap-core": "0.0.3",
+    "mkdirp": "0.5.1"
   }
 }

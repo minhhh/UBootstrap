@@ -30,6 +30,10 @@ Sometimes `yarn` will freeze when fetching packages so you can try rerun the com
 
 ## Changelog
 
+**0.0.2**
+
+* Include `uboostrap-texturedithering`, `uboostrap-webp`
+
 **0.0.1**
 
 * Initial setup

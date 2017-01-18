@@ -11,5 +11,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b6f81c6fde6148b692bec82d2ff5b02, type: 3}
   m_Name: SierraTwoRowDithering
   m_EditorClassIdentifier: 
-  targetColorSpace: RGBA4444
-  type: SierraTwoRowDithering
+  targetColorSpace: 5247424134343434
+  type: 53696572726154776f526f77446974686572696e67
